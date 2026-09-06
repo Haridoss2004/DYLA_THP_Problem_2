@@ -494,15 +494,6 @@ The scientifically supported claim is narrower:
 
 Any product-level identification claim requires a verified product-identity dataset and evaluation protocol.
 
----
-
-## License
-
-Add the appropriate project license here if you intend to distribute the source code publicly.
-
-The dataset and pretrained model may have their own licenses and usage terms. Refer to their respective sources before redistribution.
-
----
 
 ## Acknowledgements
 
