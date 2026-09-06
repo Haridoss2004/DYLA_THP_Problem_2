@@ -1,0 +1,24 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/
+
+# Hugging Face and model caches
+.cache/
+data/raw/
+data/downloads/
+
+# Generated retrieval artifacts and local absolute-path manifests
+data/index/
+data/catalogue/catalogue.csv
+data/evaluation/clean_queries.csv
+
+# Local reports that embed machine-specific cache paths
+reports/baseline_results.json
+reports/baseline_results.md
+
+# Notebook and OS/editor noise
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
